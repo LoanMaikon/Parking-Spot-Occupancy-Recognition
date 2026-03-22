@@ -1,0 +1,25 @@
+mode: supervised
+dataset_path: ../../dataset
+train_data: ['pklot', 'plds']
+test_data: [['camera8']]
+first_n_days_train: ['all', 'all']
+first_n_days_test: [['>7']]
+n_train_labels: ['all', 'all']
+batch_size: 256
+num_steps: 30000
+lr: 0.031622776
+weight_decay: 0.00001
+num_workers: 32
+prefetch_factor: 4
+transform_resize: [224, 224]
+warmup_steps: 0
+pin_memory: False
+use_checkpoint: False
+optimizer: sgd
+save_every: 0
+use_scheduler: False
+inference_batch_size: 256
+data_augmentations: []
+classifier_head: linear_classifier
+unfrozen_layers: all
+persistent_workers: False

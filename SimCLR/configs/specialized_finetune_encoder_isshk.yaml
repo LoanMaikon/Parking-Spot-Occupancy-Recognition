@@ -1,0 +1,20 @@
+mode: simclr
+dataset_path: ../../dataset
+train_data: ['pklot', 'cnr', 'isshk']
+first_n_days_train: ['all', 'all', '<=7']
+batch_size: 512
+num_steps: 80000
+lr: 0.3
+weight_decay: 0.000001
+num_workers: 32
+prefetch_factor: 4
+transform_resize: [224, 224]
+temperature: 0.5
+warmup_steps: 0
+pin_memory: False
+use_checkpoint: False
+optimizer: lars
+save_every: 20000
+use_scheduler: False
+unfrozen_layers: all
+persistent_workers: False
