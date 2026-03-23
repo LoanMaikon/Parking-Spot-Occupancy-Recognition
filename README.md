@@ -1,8 +1,8 @@
 <div align="center">
 
-# IJCNN PARKINNG SPOT OCCUPANCY RECOGNITION
+# PARKING SPOT OCCUPANCY RECOGNITION
 
-This is the repository containing the source code and documentation for the IJCNN 2026 paper Toward Parking Spot Occupancy Recognition: A Self-supervised Approach.
+This is the repository containing the source code and documentation for the paper Toward Parking Spot Occupancy Recognition: A Self-supervised Approach.
 
 </div>
 
