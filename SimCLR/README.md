@@ -1,8 +1,8 @@
 <div align="center">
 
-# IJCNN PARKINNG SPOT OCCUPANCY RECOGNITION - SECOND STAGE (2)
+# PARKINNG SPOT OCCUPANCY RECOGNITION - SECOND STAGE (2)
 
-This folder contains the code for the second stage (2) of the training pipeline described in the IJCNN 2026 paper *Toward Parking Spot Occupancy Recognition: A Self-supervised Approach*. This stage involves self-supervised fine-tuning of a SimCLR model on parking spot occupancy data using the PKLot, CNRPark-EXT, and PLds datasets.
+This folder contains the code for the second stage (2) of the training pipeline described in the paper *Toward Parking Spot Occupancy Recognition: A Self-supervised Approach*. This stage involves self-supervised fine-tuning of a SimCLR model on parking spot occupancy data using the PKLot, CNRPark-EXT, and PLds datasets.
 
 </div>
 
