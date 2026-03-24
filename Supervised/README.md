@@ -1,8 +1,8 @@
 <div align="center">
 
-# IJCNN PARKINNG SPOT OCCUPANCY RECOGNITION - THIRD STAGE (3)
+# PARKINNG SPOT OCCUPANCY RECOGNITION - THIRD STAGE (3)
 
-This folder contains the code for the third stage (3) of the training pipeline described in the IJCNN 2026 paper *Toward Parking Spot Occupancy Recognition: A Self-supervised Approach*. This stage involves supervised fine-tuning of the model trained on stage (2) on parking spot occupancy data using the PKLot, CNRPark-EXT, and PLds datasets.
+This folder contains the code for the third stage (3) of the training pipeline described in the paper *Toward Parking Spot Occupancy Recognition: A Self-supervised Approach*. This stage involves supervised fine-tuning of the model trained on stage (2) on parking spot occupancy data using the PKLot, CNRPark-EXT, and PLds datasets.
 
 </div>
 
