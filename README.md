@@ -27,4 +27,4 @@ This repository contains:
 - `Supervised`: Contains the code for the stage (3).
 - `tools`: Contains utility scripts for data processing and evaluation on edge devices.
 
-The first execution of the trained models can be found ![here](https://huggingface.co/buckets/LoanMaikon/Parking-Lot-Occupancy-Recognition).
+The first executions of the trained models can be found [here](https://huggingface.co/buckets/LoanMaikon/Parking-Lot-Occupancy-Recognition).
