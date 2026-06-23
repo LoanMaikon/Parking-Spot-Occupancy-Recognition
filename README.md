@@ -4,6 +4,8 @@
 
 This is the repository containing the source code and documentation for the paper Toward Parking Spot Occupancy Recognition: A Self-supervised Approach.
 
+arXiv link [here](https://arxiv.org/pdf/2606.20886)
+
 </div>
 
 ## 1. Overview
@@ -27,4 +29,4 @@ This repository contains:
 - `Supervised`: Contains the code for the stage (3).
 - `tools`: Contains utility scripts for data processing and evaluation on edge devices.
 
-The first executions of the trained models can be found [here](https://huggingface.co/buckets/LoanMaikon/Parking-Lot-Occupancy-Recognition).
+The first executions of the trained models can be found [here](https://huggingface.co/LoanMaikon/Parking-Spot-Occupancy-Recognition).
